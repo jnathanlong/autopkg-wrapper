@@ -16,7 +16,6 @@ import os
 import subprocess
 import shutil
 import time
-import tkinter
 
 #Variables for including User directory in path variables, etc/
 homedir = os.environ['HOME']
